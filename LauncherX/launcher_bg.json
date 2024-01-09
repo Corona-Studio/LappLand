@@ -1,0 +1,18 @@
+{
+  "VariableConfigurationDic": {
+    "BgPalettes": {
+      "$type": "CP_Dictionary[string#BackgroundInfo]",
+      "Value": {
+        "81411651C8BA71DBA8336A26CA40EF28": {
+          "Palette": [
+            "#BE902E",
+            "#744C11",
+            "#E6E2DC",
+            "#F2CC66",
+            "#6D6A35"
+          ]
+        }
+      }
+    }
+  }
+}

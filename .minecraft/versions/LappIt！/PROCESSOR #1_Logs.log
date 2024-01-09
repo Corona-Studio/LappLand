@@ -1,0 +1,5 @@
+Task: MCP_DATA
+Input:  A:\Modserver\.minecraft\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550.zip
+Output: A:\Modserver\.minecraft\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550-mappings.txt
+Key:    mappings
+Extracting: config/joined.tsrg
